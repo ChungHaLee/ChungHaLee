@@ -18,7 +18,7 @@ My major is HCI and Culture Technology, and I'm focusing on helping people to en
 
 # 🍀 Life Skills
 ### **🎖 Problem Solving**
-I believe there are always good ways to solve the problem, **so I try to focus on 'why'.** By focusing, I was able to gather resources and information properly.
+I believe there are always good ways to solve the problem, **so I try to focus on 'why'.** By focusing, I was able to gather resources and information properly, and use it to problem solving.
 
 ### **👫 Easy Words Communication**
 I've worked as **a member of Education Donors** when I was in college and met many different kinds of students in various cities. The most important thing I've learned was it is important to use easy words for everyone when communicating. **Easy words never fail to deliver full messages.**
