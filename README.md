@@ -2,7 +2,7 @@
 
 Hi👋! I'm a M.S student in Gwangju Institute of Science and Technology (GIST), South Korea.
 
-My major is HCI and Culture Technology, and I'm focusing on helping people to enjoy & entertain their lives more lively.
+My major is HCI and Culture Technology, and I'm focusing on the technology to help people to enjoy & entertain their lives.
 
 
 # 🛠 Work Skills
