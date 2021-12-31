@@ -1,4 +1,4 @@
-![ChungHa's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChungHaLee&&show_icons=true&theme=omni)
+![ChungHa's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChungHaLee&&show_icons=true&theme=cobalt)
 
 Hi👋! I'm a M.S student in Gwangju Institute of Science and Technology (GIST), South Korea.
 
