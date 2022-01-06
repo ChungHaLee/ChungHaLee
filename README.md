@@ -5,7 +5,7 @@ Hi👋! I'm a M.S student in Gwangju Institute of Science and Technology (GIST),
 My major is HCI and Culture Technology, and I'm focusing on the technology to help people to enjoy & entertain their lives.
 
 
-# 🛠 Work Skills
+# Work Skills
 ### 📚 Languages
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white"> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"> 
 
@@ -16,7 +16,7 @@ My major is HCI and Culture Technology, and I'm focusing on the technology to he
 
 <br>
 
-# 🍀 Life Skills
+# Life Skills
 ### **🎖 Problem Solving**
 I believe there are always good ways to solve the problem, **so I try to focus on 'why'.** By focusing, I was able to gather resources and information properly, and use it to problem solving.
 
