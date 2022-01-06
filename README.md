@@ -24,4 +24,4 @@ I believe there are always good ways to solve the problem, **so I try to focus o
 I've worked as **a member of Education Donors** when I was in college and met many different kinds of students in various cities. The most important thing I've learned was it is important to use easy words for everyone when communicating. **Easy words never fail to deliver full messages.**
 
 ### **💃 Dancing Developer**
-Because I spent most of the time in front of the desk sitting down watching the monitor, **I recently started to learn jazz dance after work.** It is super fun and not much that difficult as I thought before.
+Since I spent most of the time in front of the desk sitting down watching the monitor, **I recently started to learn jazz dance after work.** It is super fun and not much that difficult as I thought before.
