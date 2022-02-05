@@ -3,7 +3,8 @@
 ![ChungHa's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChungHaLee&&show_icons=true&theme=dracula)
 
 
-Hi👋  I'm a master student in Gwangju Institute of Science and Technology (GIST), South Korea.
+Hi👋  I'm ChungHa.
+I'm a master student in Gwangju Institute of Science and Technology (GIST), South Korea.
 
 My major is HCI and Culture Technology, and I'm focusing on using technology to help people to enjoy & entertain their lives.
 
