@@ -13,3 +13,4 @@ My major is HCI and Culture Technology, and I'm focusing on the technology to he
 
 ### 📐 Tools
 <img src="https://img.shields.io/badge/Pycharm-000000?style=flat-square&logo=Pycharm&logoColor=green"/> <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/> <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
+
