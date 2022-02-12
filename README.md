@@ -1,6 +1,6 @@
 <div align="center">
   
-![ChungHa's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChungHaLee&&show_icons=true&theme=dracula)
+![ChungHa's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChungHaLee&&show_icons=true&theme=calm)
 
 
 Hi👋  I'm ChungHa.
