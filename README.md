@@ -5,6 +5,7 @@
 
 Hi👋  I'm ChungHa.
 I'm a master student in Gwangju Institute of Science and Technology (GIST), South Korea.
+  
 By in the research field of HCI and Culture Technology, I am focusing on using technology to help people to enjoy & entertain their lives.
 
 
