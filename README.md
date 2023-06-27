@@ -2,8 +2,7 @@
  
 
 
-Hi👋   I'm ChungHa.
-I'm a Ph.D Student in Gwangju Institute of Science and Technology (GIST), South Korea.
+Hi👋   I'm ChungHa, a Ph.D Student in Gwangju Institute of Science and Technology (GIST), South Korea.
 
 
 ### 📚 Languages & Libraries
