@@ -5,5 +5,4 @@ Over the years, I’ve worked on designing and developing research prototypes, m
 
 I enjoy exploring research questions using a mix of quantitative methods, like surveys, and qualitative approaches, such as interviews and observational studies.
 
-If you’re curious about my work, feel free to check out my **[Google Scholar](https://scholar.google.com/citations?user=_CSwBPEAAAAJ&hl=en)** and **[resume](https://github.com/user-attachments/files/22511096/resume.pdf)**. Thanks for stopping by!
-
+If you’re curious about my work, feel free to check out my **[Google Scholar](https://scholar.google.com/citations?user=_CSwBPEAAAAJ&hl=en)** and **[resume](https://github.com/user-attachments/files/22799584/ChungHa_Lee_-_Ph.D._Candidate.pdf)**. Thanks for stopping by!
